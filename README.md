@@ -78,7 +78,7 @@ Security & Resilience: Science and Technology
 
 **Emily D'Agostino**  
 Student ID: 06021625  
-GitHub: [@nanaslammer](https://github.com/nanaslammer)
+GitHub: [@emilyannedag](https://github.com/emilyannedag)
 
 **Academic Supervisor**: Nils Goldbeck
 
