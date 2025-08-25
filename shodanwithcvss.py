@@ -11,7 +11,7 @@ Original file is located at
 
 import shodan
 import csv
-API_KEY = "9cfQMezjXyB0CW1faOezOtJ4e9gJD1nc"
+API_KEY = KEY
 
 api = shodan.Shodan(API_KEY)
 
