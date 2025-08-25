@@ -507,16 +507,3 @@ from sklearn.metrics import classification_report
 # Predict top-1 on validation
 y_pred = model.predict(X_val_split).argmax(axis=1)
 print(classification_report(y_val_split, y_pred))
-
-!git config --global user.email "emilyanne.dag@gmail.com"
-!git config --global user.name "nanaslammer"
-
-!git clone https://nanaslammer:YOUR_TOKEN@github.com/YOUR_USERNAME/YOUR_REPO.git
-
-# Commented out IPython magic to ensure Python compatibility.
-!git clone https://github.com/nanaslammer/Zero-Day-Detection-Model.git
-!cp ExponentialDecay_WorkingModelDiff.py Zero-Day-Detection-Model/
-# %cd Zero-Day-Detection-Model/
-!git add .
-!git commit -m "Add transformer model with Optuna"
-!git push origin main
